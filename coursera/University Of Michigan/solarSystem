@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title >Solar System</title>
+</head>
+<body style = "background-color:black;">
+
+<h1 style : "background-color:tomato;">Solar System</h1>
+<p style = "color:white;"><b>The Solar System</b> is the gravitationally bound system of the Sun and the objects that orbit it.
+It formed 4.6 billion years ago from the gravitational collapse of a giant interstellar molecular cloud. 
+The vast majority (99.86%) of the system's mass is in the Sun, with most of the remaining mass contained in the planet Jupiter. 
+The four inner system planets—Mercury, Venus, Earth and Mars—are terrestrial planets, being composed primarily of rock and metal. 
+The four giant planets of the outer system are substantially larger and more massive than the terrestrials. 
+The two largest, Jupiter and Saturn, are gas giants, being composed mainly of hydrogen and helium; the next two, Uranus and Neptune, are ice giants, 
+being composed mostly of volatile substances with relatively high melting points compared with hydrogen and helium, such as water, ammonia, and methane. 
+All eight planets have nearly circular orbits that lie near the plane of Earth's orbit, called the ecliptic.
+
+There are an unknown number of smaller dwarf planets and innumerable small Solar System bodies orbiting the Sun. <br>
+ 
+Here are the planets of solar system ::
+
+<ol style = "color:white;">
+<li> <a href = "https://en.wikipedia.org/wiki/Mercury"> Mercury </a> </li>
+<li>  <a href = "https://en.wikipedia.org/wiki/Venus"> Venus </li>
+<li>   <a href = "https://en.wikipedia.org/wiki/Earth">Earth </li>
+<li> <a href = "https://en.wikipedia.org/wiki/Mars"> Mars </li>
+<li> <a href = "https://en.wikipedia.org/wiki/Jupiter"> Jupiter </li>
+<li> <a href = "https://en.wikipedia.org/wiki/Saturn"> Saturn </li>
+<li> <a href = "https://en.wikipedia.org/wiki/Uranus"> Uranus </li>
+<li> <a href = "https://en.wikipedia.org/wiki/Neptune"> Neptune </li>
+<li>  <a href = "https://en.wikipedia.org/wiki/Pluto">Pluto </li>
+</ol>
+</p>
+
+</body>
+</html>
